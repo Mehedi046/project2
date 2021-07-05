@@ -1,0 +1,308 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #D2F5E3;
+}
+a,a:hover{
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,a,span,p,input{
+	font-family: 'source sans pro',sans-serif;
+}
+.container{
+	width: 900px;
+	margin:0px auto;
+}
+/*******
+ header style section
+ ******/
+.navber{
+	display: flex;
+	justify-content: space-between;
+}
+.header{
+	padding: 14px 0px;
+}
+.left ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px 12px;
+	padding: 0px;
+}
+.left ul li:hover{
+	color: red;
+
+    
+}
+
+.left ul{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+.left{
+	display: flex;
+	align-items: center;
+}
+.right{
+	display: flex;
+	align-items: center;
+
+}
+.right button{
+	background: #ff6162;
+	color: white;
+	padding: 16px 32px;
+	border: none;
+	text-transform: capitalize;
+	font-weight: 600;
+	border-radius: 3px;
+	cursor: pointer;
+}
+.right button:hover{
+	background: blue;
+}
+/********************** banner start *************************/
+.banner-text{
+	display: flex;
+}
+.banner{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+}
+.b-left{
+	flex-basis: 50%;
+
+}
+.b-right{
+	flex-basis: 50%;
+
+}
+.b-left h2{
+	color: green;
+	font-size: 45px;
+	font-weight: 700;
+
+}
+.b-left p{
+	color: gray;
+	font-weight: 600;
+	font-size: 10px;
+	line-height: 17px;
+}
+.b-left a i{
+	width: 30px;
+	height: 30px;
+	color: gray;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 100%;
+	border: 2px solid lightgrey;
+
+}
+.b-left i:hover{
+	background-color: black;
+}
+/**************************** gellery section start*/
+
+.gallery-text h3{
+	text-align: center;
+	font-size: 26px;
+
+}
+.gallery-text p{
+	text-align: center;
+	font-size: 15px;
+	line-height: 26px;
+
+}
+.gallery-item{
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.gallery-item .item:hover{
+	transition: 0.2s;
+	cursor: pointer;
+	box-shadow: 10px 10px 50px 10px ;
+	
+}
+.line{
+	width: 3px;
+	height:60px;
+	background-color: red;
+	margin: 70px auto;
+}
+.Features-item h3{
+	text-align: center;
+	font-size: 30px;
+	margin: 0px;
+
+}
+.Features-item p{
+	text-align: center;
+}
+.items{
+	display: flex;
+	padding: 30px 0;
+
+
+}
+.item{
+	text-align: center;
+	background-color: white;
+	margin: 10px;
+	padding: 10px;
+}
+
+.item p{
+		font-style: normal !important;
+
+}	
+.Features.item{
+		margin: 15px;
+		padding: 15px;
+		
+
+}
+.item a i{
+	width: 60px;
+	height: 60px;
+	background-color: none;
+	text-align: center;
+	line-height: 60px;
+	border-radius: 50%;
+	font-size: 30px;
+	color: red;
+
+}
+.items-p{
+	margin-top: -50px;
+	display: flex;
+	padding: 30px 0;
+
+}
+.item:hover{
+	transition: 0.2s;
+	cursor: pointer;
+	box-shadow: 10px 10px 20px 10px rgb(147, 142, 142);
+	background: greenyellow;
+}
+
+.foter{
+	background-color: #D8EFF0;
+	text-align: center;
+	padding: 15px;
+	font-size: 35px;
+	color: #21174A;
+	align-items: center;
+
+}
+.container sup:hover{
+	background-color: red;
+}
+.container sub:hover{
+	background-color: greenyellow;
+}
+
+
+/**************************** gellery section start*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
